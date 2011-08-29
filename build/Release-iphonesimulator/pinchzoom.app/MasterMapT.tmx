@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="19" tilewidth="44" tileheight="44">
+ <tileset firstgid="1" name="MasterAlpha" tilewidth="44" tileheight="44">
+  <image source="MasterAlpha.png" width="390" height="820"/>
+  <tile id="7">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="buildable " value="1"/>
+    <property name="letter" value="holder"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="buildable" value="1"/>
+    <property name="word" value="2"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="letter" value="J"/>
+    <property name="points" value="8"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Board" width="15" height="19">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAwAAAAMAAAACQAAAAwAAAAMAAAACwAAAAwAAAALAAAADAAAAAwAAAAJAAAADAAAAAwAAAAMAAAADAAAAAwAAAASAAAADAAAAAwAAAARAAAADAAAAAwAAAAMAAAAEQAAAAwAAAAMAAAAEgAAAAwAAAAMAAAADAAAABIAAAAMAAAADAAAABIAAAAMAAAADAAAAAwAAAAMAAAADAAAABIAAAAMAAAADAAAABIAAAAMAAAACQAAAAwAAAAMAAAACwAAAAwAAAAMAAAADAAAABEAAAAMAAAADAAAAAwAAAALAAAADAAAAAwAAAAJAAAADAAAAAwAAAASAAAADAAAAAwAAAAMAAAAEgAAAAwAAAASAAAADAAAAAwAAAAMAAAAEgAAAAwAAAAMAAAADAAAABEAAAAMAAAADAAAAAwAAAALAAAADAAAAAwAAAAMAAAACwAAAAwAAAAMAAAADAAAABEAAAAMAAAACwAAAAwAAAAMAAAADAAAABIAAAAMAAAADAAAAAwAAAAMAAAADAAAABIAAAAMAAAADAAAAAwAAAALAAAADAAAAAwAAAAMAAAAEQAAAAwAAAAMAAAADAAAAAoAAAAMAAAADAAAAAwAAAARAAAADAAAAAwAAAAMAAAACwAAAAwAAAAMAAAADAAAABIAAAAMAAAADAAAAAwAAAAMAAAADAAAABIAAAAMAAAADAAAAAwAAAALAAAADAAAABEAAAAMAAAADAAAAAwAAAALAAAADAAAAAwAAAAMAAAACwAAAAwAAAAMAAAADAAAABEAAAAMAAAADAAAAAwAAAASAAAADAAAAAwAAAAMAAAAEgAAAAwAAAASAAAADAAAAAwAAAAMAAAAEgAAAAwAAAAMAAAACQAAAAwAAAAMAAAACwAAAAwAAAAMAAAADAAAABEAAAAMAAAADAAAAAwAAAALAAAADAAAAAwAAAAJAAAADAAAABIAAAAMAAAADAAAABIAAAAMAAAADAAAAAwAAAAMAAAADAAAABIAAAAMAAAADAAAABIAAAAMAAAADAAAAAwAAAASAAAADAAAAAwAAAARAAAADAAAAAwAAAAMAAAAEQAAAAwAAAAMAAAAEgAAAAwAAAAMAAAADAAAAAwAAAAMAAAACQAAAAwAAAAMAAAACwAAAAwAAAALAAAADAAAAAwAAAAJAAAADAAAAAwAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <objectgroup name="Letters" width="15" height="19"/>
+</map>
